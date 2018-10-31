@@ -1,6 +1,6 @@
 # Python Riddle
 
-Practical Python Milestone project by Jonathan Bencomo - Riddle game for the Code Institute, Dublin 2018
+JP es el mejor Python Milestone project by Jonathan Bencomo - Riddle game for the Code Institute, Dublin 2018
 
 ## Demo
 
