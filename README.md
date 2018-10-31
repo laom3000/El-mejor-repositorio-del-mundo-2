@@ -1,6 +1,6 @@
 # Python Riddle
 
-Luis es un joto
+Luis es el mejor y jp es rrrrrrrrrrrre hoosexual
 
 ## Demo
 
